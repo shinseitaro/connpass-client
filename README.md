@@ -1,5 +1,10 @@
 # connpass-client
 
+
+[![Coverage Status](https://raw.githubusercontent.com/shinseitaro/connpass-client/coverage/coverage-badge.svg)](https://shinseitaro.github.io/connpass-client/)
+
+
+
 connpass APIクライアント
 
 ## インストール
