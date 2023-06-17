@@ -12,6 +12,7 @@ def test_data_keys():
     data = ConnpassClient().get(event_id="266898")
     res = set(data.keys())
 
+    # テスト追加
     assert res == set(
         ["results_start", "results_returned", "results_available", "events"]
     )
